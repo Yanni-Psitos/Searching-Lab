@@ -50,3 +50,5 @@ In either pseudocode or java, write the algorithm for binary search *recursively
 #### Deliverable
 
 Pictures of each of the practice problems.
+
+[Practice Problems (No Bonus)](http://i.imgur.com/EYYeoS6.jpg)
